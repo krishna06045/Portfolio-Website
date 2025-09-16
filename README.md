@@ -8,4 +8,4 @@ Hi! I’m Krishna, a B.Tech IT student at VIT Vellore (Class of 2026). I’m pas
 
 ## 🔗 Portfolio
 
-Check out my projects and work here: [Live Portfolio](your-live-portfolio-link.com)
+Check out my projects and work here: [Live Portfolio](https://portfolio-website-hwxb.onrender.com/)
